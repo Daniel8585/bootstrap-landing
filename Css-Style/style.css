@@ -352,6 +352,7 @@ body {
 }
 
 .slide-slak{
+    border: none;
     border-radius: 50%;
     text-align: center;
     background-color: #6ee0a7;
@@ -364,6 +365,46 @@ body {
     padding-top: 70px;
     padding-left: 420px;
 }
+
+.slide-img >div{
+    padding: 10px;
+}
+
+
+
+
+
+/*plaer block*/
+
+.plaer{
+    padding-top: 120px;
+}
+
+.plaer-block img{
+    width: 350px;
+    height: 234px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -512,10 +553,10 @@ body {
     grid-template-columns:auto auto;
     text-align: center;
     width: max-content;
-    padding-left: 109px;
+    padding-left: 80px;
+    padding-top: 10px;
 }
-
-    
+ 
 
 }
 
