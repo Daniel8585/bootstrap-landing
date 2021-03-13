@@ -419,7 +419,7 @@ body {
 .FAQ-block{
     position: absolute;
     background-color: #283730;
-    height: 950px;
+    height: auto;
     right: 0;
     z-index: -2;
 }
@@ -482,7 +482,43 @@ body {
       margin: auto;
   }
 
+  .FAQ-block-page{
+      padding-bottom: 120px;
+  }
 
+
+  /*money*/
+.money-text{
+    justify-content: center;
+}
+  
+.money-text h1{
+    padding-left: 110px;
+    font-size: 70px;
+    line-height: 70px;
+    font-weight: 700;
+    letter-spacing: -2.33px;
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+}
+.money-text p{
+    padding-left: 110px;
+    padding-right: 17px;
+    font-size: 21px;
+    line-height: 36px;
+    color: #e5e5e5;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+}
+.days{
+    color: #4ebe86;
+}
+
+.money-img img{
+    position: relative;
+    left: 90px;
+}
 
 
 
@@ -558,9 +594,41 @@ body {
         padding-top: 0px;
         padding-left: 100px;
     }
-    
 
-     
+    
+/*money*/
+.money-text{
+    justify-content: center;
+}
+  
+.money-text h1{
+    padding-left: 110px;
+    font-size: 55px;
+    line-height: 60px;
+    font-weight: 700;
+    letter-spacing: -1.33px;
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+}
+.money-text p{
+    padding-left: 110px;
+    padding-right: 17px;
+    font-size: 15px;
+    line-height: 25px;
+    color: #e5e5e5;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+}
+.days{
+    color: #4ebe86;
+}
+
+.money-img img{
+    position: relative;
+    width: 350px;
+    left: 90px;
+}    
 
 }
 @media only screen and (min-width: 576px) {
@@ -640,6 +708,41 @@ body {
     width: max-content;
     padding-left: 80px;
     padding-top: 10px;
+}
+
+
+/*money*/
+.money-text{
+    justify-content: center;
+}
+  
+.money-text h1{
+    padding-left: 110px;
+    font-size: 55px;
+    line-height: 60px;
+    font-weight: 700;
+    letter-spacing: -1.33px;
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+}
+.money-text p{
+    padding-left: 110px;
+    padding-right: 17px;
+    font-size: 15px;
+    line-height: 25px;
+    color: #e5e5e5;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+}
+.days{
+    color: #4ebe86;
+}
+
+.money-img img{
+    position: relative;
+    width: 350px;
+    left: 90px;
 }
  
 
@@ -777,6 +880,39 @@ body {
     text-align: center;
     padding-top: 70px;
     padding-left: 215px;
+}
+/*money*/
+.money-text{
+    justify-content: center;
+}
+  
+.money-text h1{
+    padding-left: 110px;
+    font-size: 39px;
+    line-height: 50px;
+    font-weight: 700;
+    letter-spacing: -1.33px;
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+}
+.money-text p{
+    padding-left: 110px;
+    padding-right: 17px;
+    font-size: 15px;
+    line-height: 25px;
+    color: #e5e5e5;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+}
+.days{
+    color: #4ebe86;
+}
+
+.money-img img{
+    position: relative;
+    width: 225px;
+    left: 90px;
 }
 
 
@@ -945,6 +1081,41 @@ body {
     padding-left: 335px;
 }
 
+
+
+/*money*/
+.money-text{
+    justify-content: center;
+}
+  
+.money-text h1{
+    padding-left: 110px;
+    font-size: 55px;
+    line-height: 60px;
+    font-weight: 700;
+    letter-spacing: -1.33px;
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+}
+.money-text p{
+    padding-left: 110px;
+    padding-right: 17px;
+    font-size: 19px;
+    line-height: 30px;
+    color: #e5e5e5;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+}
+.days{
+    color: #4ebe86;
+}
+
+.money-img img{
+    position: relative;
+    width: 300px;
+    left: 90px;
+}
 
 }
 
@@ -1120,6 +1291,41 @@ body {
     padding-left: 420px;
 }
 
+
+/*money*/
+   
+.money-text{
+    justify-content: center;
+}
+  
+.money-text h1{
+    padding-left: 110px;
+    font-size: 70px;
+    line-height: 70px;
+    font-weight: 700;
+    letter-spacing: -2.33px;
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+}
+.money-text p{
+    padding-left: 110px;
+    padding-right: 17px;
+    font-size: 21px;
+    line-height: 36px;
+    color: #e5e5e5;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+}
+.days{
+    color: #4ebe86;
+}
+
+.money-img img{
+    width: 350px;
+    position: relative;
+    left: 90px;
+}
 
 }
 /*
