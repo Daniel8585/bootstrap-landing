@@ -383,6 +383,7 @@ body {
 
 .plaer{
     padding-top: 50px;
+    padding-bottom: 120px;
 }
 
 .plaer-block img{
@@ -415,10 +416,71 @@ body {
 
 
 
+.FAQ-block{
+    position: absolute;
+    background-color: #283730;
+    height: 950px;
+    right: 0;
+    z-index: -2;
+}
+
+.FAQ-title{
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+
+.FAQ-title > h1{
+    text-align: center;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -2.53px;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -2.53px;
+    color: white;
+}
 
 
+.collapsible {
+    border-radius: 8px;
+    margin: 8px;
+    background-color:#45745e;
+    opacity: .5;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
 
+  
+.active, .collapsible:hover {
+    background-color: #555;
+  }
+  
+  .content {
+    border-radius: 8px;  
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
 
+  .collapsible h1{  
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    color: inherit;
+    font-size: 21px;
+    letter-spacing: -1px;
+    line-height: 36px;
+  }
+
+  .colaps-1{
+      margin: auto;
+  }
 
 
 
