@@ -417,7 +417,7 @@ body {
 
 
 .FAQ-block{
-    position: absolute;
+    position: relative;
     background-color: #283730;
     height: auto;
     right: 0;
@@ -521,6 +521,51 @@ body {
 }
 
 
+
+
+
+/* UX-block*/
+
+.ux-text{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.ux-text h3{
+    color: #666666;
+    font-family: "Karla", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 2.81px;
+    text-transform: uppercase;
+}
+.ux-text h1{
+    font-size: 48px;
+    line-height: 57px;
+    padding: 0 7px;
+    letter-spacing: -2.53px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000;
+    font-weight: 600;
+    padding-bottom: 18px;
+    margin-bottom: 27px;
+}
+
+.ux-text button{
+    color: #ffffff;
+    background-color: #fc593b;
+    align-items: center;
+    height: 60px;
+    min-width: 209px;
+    letter-spacing: -0.9px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 3px;
+}
+
+.ux-text button:hover{
+        opacity: .8;
+}
 
 
 
@@ -629,6 +674,44 @@ body {
     width: 350px;
     left: 90px;
 }    
+
+
+
+/* UX-block*/
+
+
+.ux-text h3{
+    color: #666666;
+    font-family: "Karla", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 2.81px;
+    text-transform: uppercase;
+}
+.ux-text h1{
+    font-size: 40px;
+    line-height: 57px;
+    padding: 0 7px;
+    letter-spacing: -2.53px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000;
+    font-weight: 600;
+    padding-bottom: 18px;
+    margin-bottom: 27px;
+}
+
+.ux-text button{
+    color: #ffffff;
+    background-color: #fc593b;
+    align-items: center;
+    height: 60px;
+    min-width: 209px;
+    letter-spacing: -0.9px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 3px;
+}
+ 
 
 }
 @media only screen and (min-width: 576px) {
@@ -743,6 +826,43 @@ body {
     position: relative;
     width: 350px;
     left: 90px;
+}
+
+
+
+/* UX-block*/
+
+
+.ux-text h3{
+    color: #666666;
+    font-family: "Karla", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 2.81px;
+    text-transform: uppercase;
+}
+.ux-text h1{
+    font-size: 40px;
+    line-height: 57px;
+    padding: 0 7px;
+    letter-spacing: -2.53px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000;
+    font-weight: 600;
+    padding-bottom: 18px;
+    margin-bottom: 27px;
+}
+
+.ux-text button{
+    color: #ffffff;
+    background-color: #fc593b;
+    align-items: center;
+    height: 60px;
+    min-width: 209px;
+    letter-spacing: -0.9px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 3px;
 }
  
 
@@ -913,6 +1033,41 @@ body {
     position: relative;
     width: 225px;
     left: 90px;
+}
+
+/* UX-block*/
+
+
+.ux-text h3{
+    color: #666666;
+    font-family: "Karla", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 2.81px;
+    text-transform: uppercase;
+}
+.ux-text h1{
+    font-size: 48px;
+    line-height: 57px;
+    padding: 0 7px;
+    letter-spacing: -2.53px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000;
+    font-weight: 600;
+    padding-bottom: 18px;
+    margin-bottom: 27px;
+}
+
+.ux-text button{
+    color: #ffffff;
+    background-color: #fc593b;
+    align-items: center;
+    height: 60px;
+    min-width: 209px;
+    letter-spacing: -0.9px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 3px;
 }
 
 
@@ -1115,6 +1270,42 @@ body {
     position: relative;
     width: 300px;
     left: 90px;
+}
+
+
+/* UX-block*/
+
+
+.ux-text h3{
+    color: #666666;
+    font-family: "Karla", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 2.81px;
+    text-transform: uppercase;
+}
+.ux-text h1{
+    font-size: 48px;
+    line-height: 57px;
+    padding: 0 7px;
+    letter-spacing: -2.53px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000;
+    font-weight: 600;
+    padding-bottom: 18px;
+    margin-bottom: 27px;
+}
+
+.ux-text button{
+    color: #ffffff;
+    background-color: #fc593b;
+    align-items: center;
+    height: 60px;
+    min-width: 209px;
+    letter-spacing: -0.9px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 3px;
 }
 
 }
@@ -1326,6 +1517,46 @@ body {
     position: relative;
     left: 90px;
 }
+
+
+
+
+
+/* UX-block*/
+
+
+.ux-text h3{
+    color: #666666;
+    font-family: "Karla", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 2.81px;
+    text-transform: uppercase;
+}
+.ux-text h1{
+    font-size: 48px;
+    line-height: 57px;
+    padding: 0 7px;
+    letter-spacing: -2.53px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000;
+    font-weight: 600;
+    padding-bottom: 18px;
+    margin-bottom: 27px;
+}
+
+.ux-text button{
+    color: #ffffff;
+    background-color: #fc593b;
+    align-items: center;
+    height: 60px;
+    min-width: 209px;
+    letter-spacing: -0.9px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 3px;
+}
+
 
 }
 /*
